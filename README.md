@@ -1,11 +1,10 @@
 # Hello there!👋
-## I'm a Brazilian developer working on web apps
+## I'm a Brazilian developer working on web apps <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30">
 
 📫 Ways to contact me
 
 [![Gmail](https://img.shields.io/badge/victorcasro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcasro@gmail.com "Connect via Email")
 [![LinkedIn](https://img.shields.io/badge/In/victorcasro-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victrocasro/ "Connect on LinkedIn")
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 👨🏻‍💻 Languages and tools
 
