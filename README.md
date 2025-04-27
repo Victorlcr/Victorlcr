@@ -1,17 +1,19 @@
 # Hello there!👋
-## I'm a brazilian developer working in web app's
+## I'm a Brazilian developer working on web apps
 
-📫 ways to contact me
+📫 Ways to contact me
 
-[![Gmail Badge](https://img.shields.io/badge/-victorcasro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victorcasro@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Rodrigues-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victrocasro/ "Connect on LinkedIn")
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+[![Gmail](https://img.shields.io/badge/victorcasro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcasro@gmail.com "Connect via Email")
+[![LinkedIn](https://img.shields.io/badge/In/victorcasro-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victrocasro/ "Connect on LinkedIn")
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-👨🏻‍💻 languages and tools
+👨🏻‍💻 Languages and tools
 
-![Linux](https://img.shields.io/badge/Linux--informational?style=flat&logo=linux&color=FCC624)
-![Python](https://img.shields.io/badge/Python--informational?style=flat&logo=python&color=3776AB)
-![PHP](https://img.shields.io/badge/PHP--informational?style=flat&logo=php&color=777BB4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-darkred?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-darkblue?style=flat-square&logo=docker)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
